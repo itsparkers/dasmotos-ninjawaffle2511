@@ -1,1 +1,1 @@
-# dasmotos-ninjawaffle2511
+# root folder for dasmotos arts & crafts webpage
